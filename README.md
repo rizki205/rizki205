@@ -1,5 +1,5 @@
 # 💫 About Me:
-Lulusan Sistem Informasi dengan IPK 3,81 yang memiliki keahlian mendalam di bidang Web Development dan SEO specialist. Fokus pada pengembangan aplikasi web yang efisien dengan minat besar pada integrasi Human-Computer Interaction (HCI) untuk menciptakan pengalaman pengguna yang optimal.
+Lulusan Sistem Informasi yang memiliki keahlian mendalam di bidang Web Development dan SEO specialist. Fokus pada pengembangan aplikasi web yang efisien dengan minat besar pada integrasi Human-Computer Interaction (HCI) untuk menciptakan pengalaman pengguna yang optimal.
 
 
 ## 🌐 Socials:
